@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author nikol
+ *
+ */
+module JavaCourse {
+}
