@@ -40,7 +40,7 @@ public class KysytynLuvunIndeksi {
         lukija.close();
         int i = -1;
 
-        // TODO: Täydennä koodia tehtävänannon mukaisesti
+        // Täydennä koodia tehtävänannon mukaisesti
         for (int s : luvut) {
             i++;
             if (s == etsittava) {

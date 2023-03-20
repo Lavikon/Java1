@@ -21,7 +21,6 @@ public class Lento {
                 System.out.println("Ei ole Finnairin lento");
             }
         } catch (NumberFormatException e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
     }

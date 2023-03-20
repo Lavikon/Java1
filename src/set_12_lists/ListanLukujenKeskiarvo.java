@@ -22,6 +22,8 @@ public class ListanLukujenKeskiarvo {
         List<Integer> luvut = new ArrayList<Integer>();
 
         System.out.println("Syötä kokonaislukuja listalle (-1 lopettaa):");
+        int sum = 0;
+        int i = 0;
 
         while (true) {
             int syote = lukija.nextInt();
@@ -30,14 +32,15 @@ public class ListanLukujenKeskiarvo {
                 break;
             } else {
                 luvut.add(syote);
+                sum += syote;
+                i++;
             }
         }
         lukija.close();
 
         System.out.println(); // Tyhjä rivi tulosteeseen
 
-        // TODO: Täydennä koodia tehtävänannon mukaisesti
-
-        System.out.println("Keskiarvo: " + 0.0); // Keskiarvoa ei tule pyöristää!
+        double a = sum / i;
+        System.out.println("Keskiarvo: " + a); // Keskiarvoa ei tule pyöristää!
     }
 }

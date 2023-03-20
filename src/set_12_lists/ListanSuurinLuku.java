@@ -41,7 +41,6 @@ public class ListanSuurinLuku {
 
         System.out.println(); // Tyhjä rivi tulosteeseen
 
-        // TODO: Täydennä koodia tehtävänannon mukaisesti
         System.out.println("Listan suurin luku: " + max);
     }
 }

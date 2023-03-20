@@ -35,7 +35,6 @@ public class ListanLuvut {
 
         System.out.println(); // Tyhjä rivi tulosteeseen
 
-        // TODO: Täydennä koodia tehtävänannon mukaisesti
         for (int i : luvut) {
             System.out.println(i);            
         }

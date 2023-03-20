@@ -45,7 +45,6 @@ public class LuvutRajatullaAlueella {
 
         lukija.close();
 
-        // TODO: Täydennä koodia tehtävänannon mukaisesti
         for (int i = mista; i <= mihin; i++) {
             int a = luvut.get(i);
             System.out.println(a);            

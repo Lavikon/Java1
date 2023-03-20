@@ -43,6 +43,5 @@ public class ListanViimeinenArvo {
         System.out.println(); // Tyhjä rivi tulosteeseen
         System.out.println(a); 
 
-        // TODO: Täydennä koodia tehtävänannon mukaisesti
     }
 }

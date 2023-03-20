@@ -38,7 +38,6 @@ public class ListanLukujenSumma {
 
         System.out.println(); // Tyhjä rivi tulosteeseen
 
-        // TODO: Täydennä koodia tehtävänannon mukaisesti
         System.out.println("Summa: " + sum);
     }
 }

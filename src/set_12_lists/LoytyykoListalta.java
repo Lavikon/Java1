@@ -39,7 +39,6 @@ public class LoytyykoListalta {
 
         lukija.close();
 
-        // TODO: Muokkaa alla olevaa koodia tehtävänannon mukaisesti.
         boolean b = false;
 
         for (String s : lista) {

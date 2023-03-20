@@ -40,7 +40,7 @@ public class KolmannenArvonTulostaminen {
 
         System.out.println(); // Tyhjä rivi tulosteeseen
 
-        // TODO: Muokkaa alla olevaa koodia tehtävänannon mukaisesti
+        // Muokkaa alla olevaa koodia tehtävänannon mukaisesti
         String eka = lista.get(2);
         System.out.println(eka);
     }

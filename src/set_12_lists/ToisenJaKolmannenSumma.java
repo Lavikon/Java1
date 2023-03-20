@@ -43,7 +43,6 @@ public class ToisenJaKolmannenSumma {
 
         System.out.println(); // Tyhjä rivi tulosteeseen
 
-        // TODO: Muokkaa alla olevaa koodia tehtävänannon mukaisesti
         int a = luvut.get(1);
         int b = luvut.get(2);
         System.out.println(a+b);
