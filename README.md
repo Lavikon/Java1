@@ -1,5 +1,6 @@
 # Java1
 Programming 1 course
+
 Receiced Grade 5/5
 
 All of these vere automatically validated tasks, so I haven't pu in the effort to comment them properly or even use proper naming conventions. Instead opting for simple naming for variables such as a, b or i. Or b1 etc for booleans.
